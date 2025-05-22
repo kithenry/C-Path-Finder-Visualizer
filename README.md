@@ -1,4 +1,26 @@
-## C++ Path Finder Visualizer
+## C++ SHortest Finder Visualizer
+
+### Python Version
+
+Using [manhattan distance](https://www.datacamp.com/tutorial/manhattan-distance) 
+
+![image](https://github.com/user-attachments/assets/498eedd2-6187-4936-9748-c6cc1cf59660)
+
+
+
+Using [euclidean distance](https://www.cuemath.com/euclidean-distance-formula/) 
+
+![image](https://github.com/user-attachments/assets/18964423-116b-4ed8-82be-e46b344bbc4e)
+
+
+### C++ Version
+
+**loading..**
+
+
+---
+
+## LEARNING PLAN
 
 1. A path finder using the A* search algorithm
 	1. Build Finder Using Plan C++
@@ -44,3 +66,5 @@
 		3. Setting titles
 	2. Learn about getting C++ to communicate with Python
 	3. Implement 1.2.2.4 output using pygame
+
+
